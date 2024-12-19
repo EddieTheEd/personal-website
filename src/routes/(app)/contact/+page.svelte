@@ -1,1 +1,4 @@
-<p>contact phone numba: 123468798-56</p>
+
+<ul>
+  <li>Email: <a href="mailto:edwardleehuynh@gmail.com">edwardleehuynh@gmail.com</a></li>
+</ul>
