@@ -43,10 +43,17 @@
   header div h1, header nav h3 {
     margin-bottom: 0;
   }
+  #back {
+    cursor: pointer;
+  }
 </style>
 
 <script>
-	let { children } = $props();
+  let { children } = $props();
+
+  function goBack() {
+    history.back();
+  }
 </script>
 
 <header class="edfont">
@@ -54,9 +61,11 @@
     <h1><a href='/'>Ed</a></h1>
   </div>
   <nav>
+    <h3><a href="/about">About me</a></h3>
     <h3><a href="/whyme">Why me?</a></h3>
     <h3><a href="/contact">Contact</a></h3>
     <h3><a href="/results">Results</a></h3>
+    <h3><a on:click={goBack} id="back">↩</a></h3>
   </nav>
 </header>
 

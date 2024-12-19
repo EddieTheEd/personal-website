@@ -61,4 +61,4 @@
 
 <p>I ended up with a TEA of 403.7. Not that great, and now you can see why!</p>
 <p>While I may have done quite well in Specialist and Chinese (WACE-wise), Methods and Physics were quite a big let-down. When I get those exams back, I'll be sure to discuss where I went wrong here!</p>
-<p>In terms of SCSA's awards, I achieved the Subject Exhibition and Certificate of Excellence in Mathematics Specialist. I also got the Certificate of Distinction (getting A's for year 11 and 12 in 5 subjects).</p>
+<p>In terms of SCSA's awards, I was awarded the Subject Exhibition (highest mark in WACE) and Certificate of Excellence (top 0.5% WACE mark) in Mathematics Specialist. I also achieved the Certificate of Distinction (getting A's for year 11 and 12 in 5 subjects).</p>
