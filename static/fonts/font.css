@@ -7,3 +7,7 @@
     url('/fonts/edfont.woff2') format('woff2'),
     url('/fonts/edfont.woff') format('woff');
 }
+
+.edfont {
+  font-family: 'edfont';
+}

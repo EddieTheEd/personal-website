@@ -24,6 +24,7 @@
     }
     #caption {
       width: auto;
+      font-size: 1.7vw
     }
   }
   
@@ -42,5 +43,9 @@
 
 <h3>Hi!</h3>
 
-<p>My name is Edward. This is my website! :)</p>
+<p>My name is Edward. This is my website!</p>
+<p>I'm a Class of 2024 <a href="https://www.perthmodern.wa.edu.au">Perth Modern School</a> graduate.</p>
+<p>In 2023, I was awarded a Semester One Excellence Award in Chemistry. I also participated in the Australian Chemistry Olympiad (AChO) and was awarded a High Distinction.</p>
+<p>At my graduation ceremony, I was awarded an Excellence Award in Mathematics Methods and the Award for Academic Excellence. In addition to this, I was awarded the Betty Sagar Sustainability Leadership Award, and the Engineers Australia Certificate of Excellence for Science and Mathematics.</p>
+<p>I'm happy to tutor for WACE! If you're interested in that, you can see <a href="/whyme">my thoughts about tutoring</a>. You can also see my <a href="/results">final results</a> and my <a href="/contact">contact details</a></p>
 
