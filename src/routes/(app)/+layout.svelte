@@ -9,14 +9,17 @@
   header {
     border-bottom: 2px solid #3a3535;
   }
-  footer {
+  footer div {
+    text-align: center;
+  }
+
+  footer div p {
+    display: inline-block;
+    max-width: 60%;
     border: 2px dashed #3a3535;
     border-radius: 10px;
-    text-align: center;
-    color: #7c7772;
-  }
-  footer p {
-    margin: 2%;
+    padding: 1.5%;
+    box-sizing: border-box;
   }
 </style>
 
@@ -37,5 +40,7 @@
 {@render children()}
 
 <footer>
+<div>
   <p>Made using <a href="https://svelte.dev">Svelte</a>. The font used is <a href="/fonts/edfont.eot">my own handwriting</a>!</p>
+</div>
 </footer>
