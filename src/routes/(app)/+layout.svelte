@@ -1,25 +1,23 @@
+<svelte:head>
+	<title>Edward Huynh</title>
+</svelte:head>
+
+
+<link rel="stylesheet" href="/fonts/font.css">
+
 <style>
-      @font-face {
-        font-family: 'edfont';
-        font-style: normal;
-        font-display: swap;
-        src: url('/fonts/edfont.eot');
-        src: url('/fonts/edfont.eot?#iefix') format('embedded-opentype'),
-            url('/fonts/edfont.woff2') format('woff2'),
-            url('/fonts/edfont.woff') format('woff');
-      }
-      header {
-        border-bottom: 2px solid #3a3535;
-      }
-      footer {
-        border: 2px dashed #3a3535;
-        border-radius: 10px;
-        text-align: center;
-        color: #7c7772;
-      }
-      footer p {
-        margin: 2%;
-      }
+  header {
+    border-bottom: 2px solid #3a3535;
+  }
+  footer {
+    border: 2px dashed #3a3535;
+    border-radius: 10px;
+    text-align: center;
+    color: #7c7772;
+  }
+  footer p {
+    margin: 2%;
+  }
 </style>
 
 <script>
@@ -39,5 +37,5 @@
 {@render children()}
 
 <footer>
-  <p>Made using <a href="https://svelte.dev">Svelte</a>. The font used is <a href="/fonts/edfont.ttf">my own handwriting</a>!</p>
+  <p>Made using <a href="https://svelte.dev">Svelte</a>. The font used is <a href="/fonts/edfont.eot">my own handwriting</a>!</p>
 </footer>
