@@ -64,6 +64,6 @@
 
 <footer class="edfont">
 <div>
-  <p>Made using <a href="https://svelte.dev">Svelte</a>. The font used is <a href="/fonts/edfont.eot">my own handwriting</a>!</p>
+  <p>Made using <a href="https://svelte.dev">Svelte</a>. Fonts used are <a href="https://en.wikipedia.org/wiki/Georgia_(typeface)">Georgia</a> and <a href="/fonts/edfont.eot">my own</a>!</p>
 </div>
 </footer>

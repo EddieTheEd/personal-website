@@ -7,6 +7,15 @@
     url('/fonts/edfont.woff2') format('woff2'),
     url('/fonts/edfont.woff') format('woff');
 }
+body {
+  font-family: 'Georgia';
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/Georgia.eot');
+  src: url('/fonts/Georgia.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/Georgia.woff2') format('woff2'),
+    url('/fonts/Georgia.woff') format('woff');
+}
 
 .edfont {
   font-family: 'edfont';
