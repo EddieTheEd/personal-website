@@ -25,6 +25,7 @@
     align-items: center;
     margin-top: 2%;
     margin-bottom: 2%;
+    flex-wrap: wrap;
   }
   header div:first-child {
     flex-shrink: 0;

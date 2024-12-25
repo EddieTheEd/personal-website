@@ -38,7 +38,7 @@
 
 <div id="portrait">
    <img src="/images/squareme.png" alt="portrait" id="portraitImage">
-   <p id="caption">Hello :}</p>
+   <p id="caption">Hello!! :)</p>
 </div>
 
 <h3>Hi!</h3>
