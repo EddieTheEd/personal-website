@@ -27,7 +27,6 @@
       font-size: 1.7vw
     }
   }
-  
   #caption {
     text-align: center;
     margin: 1%;

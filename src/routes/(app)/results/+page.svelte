@@ -23,7 +23,7 @@
       <th>School Mark</th>
       <th>WACE Mark</th>
       <th>Scaled Mark</th>
-    <tr/>
+    </tr>
   </thead>
   <tbody>
     <tr>

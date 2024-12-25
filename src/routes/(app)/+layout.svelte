@@ -66,7 +66,7 @@
     <h3><a href="/whyme">Why me?</a></h3>
     <h3><a href="/contact">Contact</a></h3>
     <h3><a href="/results">Results</a></h3>
-    <h3><a on:click={goBack} id="back">↩</a></h3>
+    <h3><a onclick={goBack} onkeydown={goBack} tabindex="0" role="button" id="back">↩</a></h3>
   </nav>
 </header>
 
