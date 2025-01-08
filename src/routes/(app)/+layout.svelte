@@ -14,7 +14,7 @@
 
   footer div p {
     display: inline-block;
-    max-width: 60%;
+    max-width: 55%;
     border: 2px dashed #3a3535;
     border-radius: 10px;
     padding: 1.5%;
@@ -74,6 +74,6 @@
 
 <footer class="edfont">
 <div>
-  <p>Made using <a href="https://svelte.dev">Svelte</a>. Fonts used are <a href="https://en.wikipedia.org/wiki/Georgia_(typeface)">Georgia</a> and <a href="/fonts/edfont.eot">my own</a>!</p>
+  <p>Made using <a href="https://svelte.dev">Svelte</a>. Fonts used are <a href="https://en.wikipedia.org/wiki/Georgia_(typeface)">Georgia</a> and <a href="/fonts/edfont.eot">my own</a>! The source code for this website can be found <a href="https://github.com/EddieTheEd/personal-website">here</a>.</p>
 </div>
 </footer>
