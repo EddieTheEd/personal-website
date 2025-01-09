@@ -10,7 +10,7 @@
   color: #B9BBB6;
   font-size: 0.8em;
   margin-top: 12px;
-  border: solid, 2px, #B9BBB6;
+  border: solid, medium, #B9BBB6;
   border-radius: 10px;
   padding: 0.5%;
 }
@@ -20,6 +20,8 @@ img {
   margin-left: auto;
   margin-right: auto;
   max-width: 100%;
+  border: solid, medium, #B9BBB6;
+  border-radius: 10px;
 }
 
 .threeframe {
@@ -39,7 +41,7 @@ img {
 }
 
 .threeframe p {
-  width: 30%;
+  width: 29%;
   margin: 1%;
 }
 
