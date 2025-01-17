@@ -1,6 +1,5 @@
 <svelte:head>
   <title>Edward Huynh</title>
-  <description></description>
   <meta property="twitter:image" content="/images/squareme.png">
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:title" content="Edward Huynh">
