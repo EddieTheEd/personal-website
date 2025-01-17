@@ -1,5 +1,16 @@
 <svelte:head>
 	<title>Edward Huynh</title>
+  <description></description>
+  <meta property="twitter:image" content="/images/squareme.png">
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:title" content="Edward Huynh">
+  <meta property="twitter:description" content="My personal website! :)">
+
+  <meta property="og:image" content="/images/squareme.png">
+  <meta property="og:site_name" content="Edward Huynh">
+  <meta property="og:title" content="Edward Huynh">
+  <meta property="og:description" content="My personal website! :)" />
+  <meta property="og:url" content="example.com"> <!-- add the domain link here!!! -->
 </svelte:head>
 
 <link rel="stylesheet" href="/fonts/font.css">
