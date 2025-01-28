@@ -6,11 +6,10 @@
   <meta property="twitter:title" content="Edward Huynh">
   <meta property="twitter:description" content="My personal website! :)">
 
-  <meta property="og:image" content="/images/squareme.png">
-  <meta property="og:site_name" content="Edward Huynh">
+  <meta property="og:image" content="https://elh.id.au/images/squareme.png">
   <meta property="og:title" content="Edward Huynh">
   <meta property="og:description" content="My personal website! :)" />
-  <meta property="og:url" content="example.com">
+  <meta property="og:url" content="https://elh.id.au/">
 
 </svelte:head>
 
@@ -78,6 +77,7 @@
     <h3><a href="/whyme">Why me?</a></h3>
     <h3><a href="/contact">Contact</a></h3>
     <h3><a href="/results">Results</a></h3>
+    <h3><a href="/writings">Writings</a></h3>
     <h3><a onclick={goBack} onkeydown={goBack} tabindex="0" role="button" id="back">↩</a></h3>
   </nav>
 </header>
