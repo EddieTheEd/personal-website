@@ -1,7 +1,7 @@
 <svelte:head>
   <title>Edward Huynh</title>
   <meta property="description" content="My personal website! :)" />
-  <meta property="twitter:image" content="/images/squareme.png">
+  <meta property="twitter:image" content="https://elh.id.au/images/squareme.png">
   <meta property="twitter:card" content="summary">
   <meta property="twitter:title" content="Edward Huynh">
   <meta property="twitter:description" content="My personal website! :)">
