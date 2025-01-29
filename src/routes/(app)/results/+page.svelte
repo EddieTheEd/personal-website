@@ -1,4 +1,4 @@
-<p>Ultimately, I ended up with an ATAR of 99.95. However, I think this (rather perfect) number can be a bit deceptive and fails to present the full picture. So to be transparent, I'll share with you my school and WACE results for all the subjects I took (except for Literature, because I did really badly 🫠)</p>
+<p>Ultimately, I ended up with an ATAR of 99.95. However, I think this number can be a bit deceptive and fails to present the full picture. So to be transparent, I'll share with you my school and WACE results for all the subjects I took (except for Literature, because I did really badly 🫠)</p>
 
 <style>
   table, th, td {
