@@ -95,3 +95,5 @@ img {
   <p class="caption">Chess on a bench!</p>
   <div></div>
 </div>
+
+<p>I am a former member of Perth Modern School's <a href="https://www.perthmodern.wa.edu.au/wp-content/uploads/2024/09/PMS_Fact-sheet_Music-Program_June24_B-002.pdf">Senior Wind Orchestra</a>.</p>
