@@ -1,7 +1,7 @@
 <style>
 .frame {
   margin: auto;
-  width: 35%;
+  width: 65%;
 }
 
 .caption {
@@ -72,7 +72,7 @@ img {
 
 <p>I graduated from Perth Modern School in 2024. In my final year, I studied Mathematics Methods and Specialist, Physics, Chinese Second Language and Literature. I accelerated Chemistry, so I sat the 2023 WACE exam for Chemistry. Ultimately, I ended up with a <a href="https://www.datawrapper.de/_/ZB07C/">99.95 ATAR</a> and a <a href="https://senior-secondary.scsa.wa.edu.au/certification/2024-exhibitions-and-awards-recipients-search-page#Edward%20Huynh:~:text=Subject%20Exhibition%3A%20Mathematics%20Specialist">Subject Exhibition in Mathematics Specialist</a>.</p>
 
-<p>I have taken up the University of Melbourne's <a href="https://scholarships.unimelb.edu.au/awards/melbourne-chancellors-scholarship">Chancellor's Scholarship</a>, and will be taking the guaranteed entry pathway for the University of Melbourne's <a href="https://study.unimelb.edu.au/find/courses/graduate/doctor-of-medicine/">Doctor of Medicine</a> course. I am currently working through completing a <a href="https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/">Bachelor of Biomedicine</a>.</p>
+<p>I have taken up the University of Melbourne's <a href="https://scholarships.unimelb.edu.au/awards/melbourne-chancellors-scholarship">Chancellor's Scholarship</a>, and will be following the guaranteed entry pathway for the University of Melbourne's <a href="https://study.unimelb.edu.au/find/courses/graduate/doctor-of-medicine/">Doctor of Medicine</a> course. I am currently working through completing a <a href="https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/">Bachelor of Biomedicine</a>.</p>
 
 <p>In 2023, I was awarded a Semester One Excellence Award in Chemistry. I also participated in the <a href="https://www.asi.edu.au/program/australian-science-olympiads/">Australian Chemistry Olympiad (AChO)</a> and was awarded a High Distinction.</p>
 <p>At my graduation ceremony, I was awarded an Excellence Award in Mathematics Methods and the Award for Academic Excellence. In addition to this, I was also awarded the <a href="https://www.perthmodern.wa.edu.au/wp-content/uploads/2024/11/Year-12-Presentation-Ceremony-Prize-Winners-2024.pdf">Betty Sagar Sustainability Leadership Award</a>, and the Engineers Australia Certificate of Excellence for Science and Mathematics.</p>
@@ -86,7 +86,7 @@ img {
   <p class="caption">Left to right: Ethan Yap and me (he's very cool)</p>
 </div>
 
-<p>In my spare time, I like to play piano and embar coding projects which you can find on my <a href="https://github.com/EddieTheEd">Github</a>. I also like to play badminton with my friends, and I used to play chess for my school, representing Perth Modern School at interstate events. If you came up to me at school in year 12, you'd probably find me playing chess with Pranav on our favourite bench ❤.</p>
+<p>In my spare time, I like to play piano and embark on coding projects which you can find on my <a href="https://github.com/EddieTheEd">Github</a>. I also like to play badminton with my friends, and I used to represent Perth Modern School at interstate chess events.</p>
 
 <div class="twoframe">
   <div></div>
@@ -100,3 +100,12 @@ img {
 </div>
 
 <p>I am a former member of Perth Modern School's <a href="https://www.perthmodern.wa.edu.au/wp-content/uploads/2024/09/PMS_Fact-sheet_Music-Program_June24_B-002.pdf">Senior Wind Orchestra</a>(would <i>highly</i> recommend).</p>
+
+<div class="frame">
+  <div></div>
+  <img src="/images/band.png" alt="Me in the SWO!">
+  <div></div>
+  <div></div>
+  <p class="caption">Worth every saturday morning :)</p>
+  <div></div>
+</div>
