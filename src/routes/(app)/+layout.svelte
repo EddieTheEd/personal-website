@@ -86,6 +86,6 @@
 
 <footer class="edfont">
 <div>
-  <p>Made using <a href="https://svelte.dev">Svelte</a>. Fonts used are <a href="https://en.wikipedia.org/wiki/Georgia_(typeface)">Georgia</a> and <a href="/fonts/edfont.eot">my own</a>! The source code for this website can be found <a href="https://github.com/EddieTheEd/personal-website">here</a>.</p>
+  <p><strong>Made using <a href="https://svelte.dev">Svelte</a>. Fonts used are <a href="https://en.wikipedia.org/wiki/Georgia_(typeface)">Georgia</a> and <a href="/fonts/edfont.eot">my own</a>! The source code for this website can be found <a href="https://github.com/EddieTheEd/personal-website">here</a>.</strong></p>
 </div>
 </footer>
