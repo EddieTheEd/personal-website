@@ -30,6 +30,7 @@
     border-radius: 10px;
     padding: 1.5%;
     box-sizing: border-box;
+    font-weight: 600;
   }
   header {
     display: flex;
@@ -78,7 +79,7 @@
     <h3><a href="/contact">Contact</a></h3>
     <h3><a href="/results">Results</a></h3>
     <h3><a href="/writings">Writings</a></h3>
-    <h3><a onclick={goBack} onkeydown={goBack} tabindex="0" role="button" id="back">↩</a></h3>
+    <h3><a onclick={goBack} onkeydown={goBack} tabindex="0" role="button" id="back">←</a></h3>
   </nav>
 </header>
 
@@ -86,6 +87,6 @@
 
 <footer class="edfont">
 <div>
-  <p><strong>Made using <a href="https://svelte.dev">Svelte</a>. Fonts used are <a href="https://en.wikipedia.org/wiki/Georgia_(typeface)">Georgia</a> and <a href="/fonts/edfont.eot">my own</a>! The source code for this website can be found <a href="https://github.com/EddieTheEd/personal-website">here</a>.</strong></p>
+  <p>Made using <a href="https://svelte.dev">Svelte</a>. Fonts used are <a href="https://en.wikipedia.org/wiki/Georgia_(typeface)">Georgia</a> and <a href="/fonts/edfont.eot">my own</a>! The source code for this website can be found <a href="https://github.com/EddieTheEd/personal-website">here</a>.</p>
 </div>
 </footer>
