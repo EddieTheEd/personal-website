@@ -1,12 +1,12 @@
 <svelte:head>
   <title>Edward Huynh</title>
   <meta property="description" content="My personal website! :)" />
-  <meta property="twitter:image" content="https://elh.id.au/images/squareme.png">
+  <meta property="twitter:image" content="https://elh.id.au/images/squareme.jpg">
   <meta property="twitter:card" content="summary">
   <meta property="twitter:title" content="Edward Huynh">
   <meta property="twitter:description" content="My personal website! :)">
 
-  <meta property="og:image" content="https://elh.id.au/images/squareme.png">
+  <meta property="og:image" content="https://elh.id.au/images/squareme.jpg">
   <meta property="og:title" content="Edward Huynh">
   <meta property="og:description" content="My personal website! :)" />
   <meta property="og:url" content="https://elh.id.au/">
