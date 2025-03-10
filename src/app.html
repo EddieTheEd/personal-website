@@ -16,6 +16,34 @@
         text-decoration: none;
         color: #2f459c !important;
       }
+      pre {
+        background-color: #1d1a1a;
+        padding: 14px;
+        border-radius: 5px;
+      } 
+      pre code {
+        overflow: auto;
+        display: block;
+      }
+      ::-webkit-scrollbar {
+        width: 6px;
+        height: 6px;
+      }
+      ::-webkit-scrollbar-track {
+        box-shadow: inset 0 0 5px #151515; 
+        border-radius: 10px;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #c2c2c2; 
+        border-radius: 10px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #2f459c; 
+      }
+      code {
+        font-family: 'JetBrains Mono';
+        font-size: 0.875em;
+      }
     </style>
 	</head>
 	<body data-sveltekit-preload-data="hover">

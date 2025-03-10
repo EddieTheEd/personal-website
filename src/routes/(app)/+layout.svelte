@@ -59,6 +59,7 @@
   #back {
     cursor: pointer;
   }
+  
 </style>
 
 <script>

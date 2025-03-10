@@ -18,6 +18,7 @@
     margin: 0;
   }
 </style>
+<link href='https://fonts.googleapis.com/css?family=JetBrains Mono' rel='stylesheet'>
 
 <article>
   <div class='writingheader'>

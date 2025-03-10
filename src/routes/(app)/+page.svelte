@@ -32,7 +32,7 @@
     margin: 1%;
     background-color: #2a2727;
     border-radius: 15px;
-  }
+  } 
 </style>
 
 <div id="portrait">
