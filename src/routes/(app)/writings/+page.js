@@ -11,8 +11,10 @@ export async function load() {
 		})
 	);
 
-	writings.sort((a, b) => new Date(b.date) - new Date(a.date));
+	const publishedWritings = writings.filter(writing => !(writing.draft == 'true'));
 
-	return { writings };
+	publishedWritings.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+	return { writings: publishedWritings };
 }
 

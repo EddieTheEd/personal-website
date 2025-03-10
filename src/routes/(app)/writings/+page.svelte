@@ -8,7 +8,7 @@
 <ul>
 	{#each data.writings as writing}
 		<li>
-			<a href={`/writings/${writing.slug}`}>{writing.title} - {writing.date}</a>
+			<a href={`/writings/${writing.slug}`}>{writing.title}</a> - {writing.date}
 		</li>
 	{/each}
 </ul>

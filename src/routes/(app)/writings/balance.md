@@ -1,6 +1,7 @@
 ---
 title: 'Balancing Professionalism and Personality'
 date: '2025-01-29'
+draft: 'true'
 ---
 
 ### But why does this matter..?
