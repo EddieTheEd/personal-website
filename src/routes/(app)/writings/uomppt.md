@@ -96,3 +96,5 @@ I spoke to the (very kind) invigilator after the test, and he said that the test
 
 ## In conclusion
 This was an interesting experience. I feel like I've been stressed about this test for a month, and though I felt it wasn't particularly difficult, I'm a bit worried that the methods I used are too sketchy to give me a good score. Hopefully I pass, and I hope this was helpful to anyone taking the test in the future :)
+
+*Editor's note*: I passed :)))))))
