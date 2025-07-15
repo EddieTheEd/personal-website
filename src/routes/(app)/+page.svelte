@@ -46,6 +46,9 @@
 <p>I'm a Class of 2024 <a href="https://www.perthmodern.wa.edu.au">Perth Modern School</a> graduate. I am studying at <a href="https://www.unimelb.edu.au/">The University of Melbourne</a> as a <a href="https://scholarships.unimelb.edu.au/featured/melbourne-chancellors-scholarship">Chancellor's scholar</a>.</p>
 
 <p>In 2024, I achieved a <a href="https://www.datawrapper.de/_/ZB07C/">99.95 ATAR</a>. I was also awarded the <a href="https://senior-secondary.scsa.wa.edu.au/certification/2024-exhibitions-and-awards-recipients-search-page#Edward%20Huynh:~:text=Subject%20Exhibition%3A%20Mathematics%20Specialist">Subject Exhibition</a> (highest mark in WACE) and Certificate of Excellence (top 0.5% WACE mark) in Mathematics Specialist.</p>
-<p>I'm happy to tutor for the WACE! Please <a href="/contact">contact me</a> for more information. If you're interested, you can see <a href="/whyme">my thoughts about tutoring</a>. Additionally, you can see my <a href="/results">high school results</a> or get to know a little <a href="/about">about me</a>!</p>
+
+<s><p>I'm happy to tutor for the WACE! Please <a href="/contact">contact me</a> for more information. If you're interested, you can see <a href="/whyme">my thoughts about tutoring</a>. Additionally, you can see my <a href="/results">high school results</a> or get to know a little <a href="/about">about me</a>!</p></s>
+
+<p><i>I'm pretty packed this year so I won't be taking on any more students. Maybe next year!</i></p>
 
 
