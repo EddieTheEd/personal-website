@@ -51,7 +51,9 @@
   }
   nav h3 {
     margin-left: 2%;
-    margin-right: 2%
+    margin-right: 2%;
+    display: flex;
+    align-items: center;
   }
   header div h1, header nav h3 {
     margin-bottom: 0;
@@ -76,10 +78,10 @@
   </div>
   <nav>
     <h3><a href="/about">About me</a></h3>
-    <h3><a href="/whyme">Why me?</a></h3>
     <h3><a href="/contact">Contact</a></h3>
     <h3><a href="/results">Results</a></h3>
     <h3><a href="/writings">Writings</a></h3>
+    <h3><a href="/now">Now</a></h3>
     <h3><a onclick={goBack} onkeydown={goBack} tabindex="0" role="button" id="back">←</a></h3>
   </nav>
 </header>
