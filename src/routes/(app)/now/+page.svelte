@@ -10,19 +10,17 @@ img {
 
 </style>
 
-<p><i>Inspired by <a href="https://nownownow.com/about">Derek Sivers's nownownow.com</a>. Last updated: 08/02/2026.</i></p>
+<p><i>Inspired by <a href="https://nownownow.com/about">Derek Sivers's nownownow.com</a>. Last updated: 10/03/2026.</i></p>
 
 
-<p>I'm currently back in Perth for the holidays, but I'm heading back to Melbourne soon. Guess I'll be updating this sooner than I would've liked!</p>
+<p>I've returned back to Melbourne to start my second year! Doing the O-Week for my college was really fun. Tiring, for sure, but also super rewarding.</p>
 
-<p>Kinda just doing nothing. Been meeting up with friends and driving a lot for a driving test. My eyes hurt 😭</p>
+<p>Been busy with starting the new semester. This time my subjects are quite tough! 😥</p>
 
-<p>Looking forward to head back to Melbourne and help out for my college's orientation week.</p>
+<p>Currently focused on cleaning up any small projects when I have time.</p>
 
-<p>Currently focused on cleaning up any small projects before starting uni again.</p>
-
-<p>Not much 'now' to talk about! Probably will have more once my holiday is over 🥲</p>
+<p>Not much 'now' to talk about! Probably will once I settle back into Melb and decide what to do.</p>
 
 <p>Here's an idea. Since most people actually use a 'now' page to spotlight their work, which I don't particularly <i>have</i>, every time I update this page I'll try to upload the most recent picture of me in my camera roll.</p>
 
-<img src="/images/05-02-2026.jpg" alt="A pic of me and someone else (oooh) at Perth Busport">
+<img src="/images/10-03-2026.jpg" alt="A pic of me and someone else (oooh) at Perth Busport">
